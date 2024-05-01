@@ -1,0 +1,14 @@
+1. true.
+2. false.
+3. true.
+4. Computer = computer.
+5. false.
+6. false.
+7. C = devivce(computer).
+8. C= Computer.
+9. C= laptop , L= computer.
+10. false.
+11. false.
+12. C= device(C).
+13. M = device(computer), N = unit(memory).
+14. false.
